@@ -491,5 +491,3 @@ export const educationData = [
 - Add new service
 - Add another section
 
-
-
